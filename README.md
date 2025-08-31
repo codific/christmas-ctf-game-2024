@@ -21,6 +21,6 @@ The game is writtein in Python PHP. It is API and the docs is on /api/docs.
  docker run -d -p 8000:8000 --name my-running-app my-app
 ```
 
-The application will run on 8080 port
+The application will run on 8000 port
 
 
